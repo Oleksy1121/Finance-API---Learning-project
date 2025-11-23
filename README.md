@@ -46,10 +46,6 @@ This project was created as a learning exercise to understand REST API developme
 
 ## 📦 Installation
 
-### Prerequisites
-- Python 3.8+
-- PostgreSQL 12+
-
 ### Setup
 
 1. **Clone the repository:**
@@ -161,11 +157,11 @@ Automatic validation of query parameters reduces boilerplate code and ensures da
 ### Project structure:
 ```
 finance-api-learning/
-├── finanse.py              # Main API application
-├── 01-finanse.ipynb        # Data analysis notebook
-├── requirements.txt        # Python dependencies
-├── .gitignore             # Git ignore rules
-└── README.md              # This file
+├── server.py                 # Main API application
+├── finance-notebook.ipynb    # Data analysis notebook
+├── requirements.txt          # Python dependencies
+├── .gitignore                # Git ignore rules
+└── README.md                 # This file
 ```
 
 ### Running in development mode:
