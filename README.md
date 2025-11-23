@@ -50,8 +50,8 @@ This project was created as a learning exercise to understand REST API developme
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/finance-api-learning.git
-cd finance-api-learning
+git clone https://github.com/Oleksy1121/Finance-API---Learning-project.git
+cd Finance-API---Learning-project
 ```
 
 2. **Create virtual environment:**
